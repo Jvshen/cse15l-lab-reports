@@ -1,3 +1,5 @@
+# Lab Report 1 
+
 To log into a course specific account on ieng6 you would first need access to Visual Studio Code.
 
 To install Visual Studio Code, you would need to go to the website https://code.visualstudio.com/. 
