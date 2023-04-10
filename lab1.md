@@ -7,7 +7,7 @@ Once there you would need to click on the download button at the top right and s
 The download page should look like this,
 ![Image](VScodeDownload.jpg)
 
-Once downloaded, open VScode in your repository. Click on the downloaded file to open up VScode. It should appear like this,
+Once downloaded, find the downloaded file and open it. Click on the downloaded file to open up VScode. It should appear like this,
 ![Image](VScode.jpg)
 
 Once you have VScode opened, open the terminal by clicking on terminal in your menu bar and selecting new terminal
