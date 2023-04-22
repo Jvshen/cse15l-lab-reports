@@ -2,10 +2,10 @@
 
 To log into a course specific account on ieng6 you would first need access to Visual Studio Code.
 
-To install Visual Studio Code, you would need to go to the website https://code.visualstudio.com/. 
+To install Visual Studio Code, you would need to go to the website [Visual Studio Code](https://code.visualstudio.com/). 
 Once there you would need to click on the download button at the top right and select the download version that best suits your device.
 The download page should look like this,
-![Image](VScodeDownload.jpg)
+![Image](VScodeDownload.jpg|width=100)
 
 Once downloaded, find the downloaded file and open it. Click on the downloaded file to open up VScode. It should appear like this,
 ![Image](VScode.jpg)
@@ -13,9 +13,9 @@ Once downloaded, find the downloaded file and open it. Click on the downloaded f
 Once you have VScode opened, open the terminal by clicking on terminal in your menu bar and selecting new terminal
 ![Image](Terminal.jpg)
 
-When you have your terminal open, make sure that you have git bash. This should not be a problem for mac but if you're on windows you would need to download it using this link https://gitforwindows.org/.
+When you have your terminal open, make sure that you have git bash. This should not be a problem for mac but if you're on windows you would need to download it using this link to [github](https://gitforwindows.org/).
 
-Now that you have VScode set up and your terminal open, type this command 'ssh cs15lsp23zz@ieng6.ucsd.edu', into your terminal (without the quotation marks) but replace the zz in the command with the letters that a specific to your course-specific account. This command should follow the $ sign. The output should ask you for a password input. Enter your password and the output should look like this,
+Now that you have VScode set up and your terminal open, type this command ``` ssh cs15lsp23zz@ieng6.ucsd.edu ```, into your terminal (without the quotation marks) but replace the zz in the command with the letters that a specific to your course-specific account. This command should follow the $ sign. The output should ask you for a password input. Enter your password and the output should look like this,
 ![Image](Password.jpg)
 ![Image](LogIn.jpg)
 
