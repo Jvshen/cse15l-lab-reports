@@ -5,7 +5,7 @@ To log into a course specific account on ieng6 you would first need access to Vi
 To install Visual Studio Code, you would need to go to the website [Visual Studio Code](https://code.visualstudio.com/). 
 Once there you would need to click on the download button at the top right and select the download version that best suits your device.
 The download page should look like this,
-![Image](VScodeDownload.jpg|width=100)
+![Image](VScodeDownload.jpg)
 
 Once downloaded, find the downloaded file and open it. Click on the downloaded file to open up VScode. It should appear like this,
 ![Image](VScode.jpg)
