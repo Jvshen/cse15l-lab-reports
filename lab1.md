@@ -12,7 +12,7 @@ Once downloaded, find the downloaded file and open it. Click on the downloaded f
 ![Image](VScode.jpg)
 
 Once you have VScode opened, open the terminal by clicking on terminal in your menu bar and selecting new terminal
-![Image](Terminal.jpg)
+![Image](TerminalR.jpg)
 
 When you have your terminal open, make sure that you have git bash. This should not be a problem for mac but if you're on windows you would need to download it using this link to [github](https://gitforwindows.org/).
 
