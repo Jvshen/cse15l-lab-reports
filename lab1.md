@@ -25,7 +25,7 @@ Once you see this, you have successfully remotely connected into a course-specif
 Some commands to try in the terminal are cd, ls, cp, and cat.
   
 Here are some examples of the output of these commands,
-![Image](Output.jpg)
+![Image](OutputR.jpg)
 
 Where cd allows you to move between directories. cp allows you to copy files and move them between locations. ls allows you to list the names of files and directories and provide the features of them. cat allows you to print the contents of a file into the terminal.
 
