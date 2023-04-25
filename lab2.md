@@ -1,12 +1,12 @@
 # Lab Report 2
 # Part 1
 
-![Image](lab2g.png)
-![Image](Example1.png)
+![Image](lab2gR.png)
+![Image](Example1R.png)
 
 In this example, the method handleRequest is called. The relavent field of the class is the field ``` s ```. The generic relavent arguments are ``` / ``` and ``` /add-message?s= ```. Specifically, the relavant argument to the method handleRequest is when I wrote ``` /add-message?s=hello my name is ``` into the url of the StringServer website that I created.  When I inputted this argument into the url, this called the method handleRequest and the value of the field s I created changed. The value of the relavent field ``` s ``` changed into the inputted value after the ``` = ``` in the argument plus a new line.
 
-![Image](Example2.png)
+![Image](Example2R.png)
 
 In this example, the method handleRequest is called. The relavent field of the class is the field ``` s ```. The generic relavent arguments are ``` / ``` and ``` /add-message?s= ```. Specifically, the relavant argument to the method handleRequest is when I wrote ``` /add-message?s=Justin Shen ``` into the url of the StringServer website that I created.  When I inputted this argument into the url, this called the method handleRequest and the value of the field s I created changed. The value of the relavent field ``` s ``` changed into the previous inputted value plus the current inputted value after the ``` = ``` in the argument plus a new line.
 
@@ -34,12 +34,12 @@ public void testReverseInPlace() {
 
 This is the symptom of running the failure-inducing JUnit test.
 
-![Image](Bug.png)
+![Image](BugR.png)
 
 
 This is the symptom of running the non failure-indcuing JUnit test.
 
-![Image](nobug.png)
+![Image](nobugR.png)
 
 Before changing the code, here is the bug-inducing code that caused the failure in one of the JUnit tests I used.
 ```
