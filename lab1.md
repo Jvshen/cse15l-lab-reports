@@ -22,12 +22,12 @@ Now that you have VScode set up and your terminal open, type this command ``` ss
 
 Once you see this, you have successfully remotely connected into a course-specific account on ieng6. Now that you have successfully remotely connected, you can start trying some commands in the terminal.
 
-Some commands to try in the terminal are cd, ls, cp, and cat.
+Some commands to try in the terminal are ``` cd~ ```, ``` cd ```, ``` ls -lat ```, ``` ls -a ```, ``` ls <directory> ```, ``` cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/ ```, ``` cat /home/linux/ieng6/cs15lsp23/public/hello.txt ```.
   
 Here are some examples of the output of these commands,
 ![Image](OutputR.jpg)
 
-Where cd allows you to move between directories. cp allows you to copy files and move them between locations. ls allows you to list the names of files and directories and provide the features of them. cat allows you to print the contents of a file into the terminal.
+Where ``` cd ``` allows you to move between directories. ``` cp ``` allows you to copy files and move them between locations. ``` ls ``` allows you to list the names of files and directories and provide the features of them. ``` cat ``` allows you to print the contents of a file into the terminal. As seen in the picture above, ``` ls -lat ``` allows us to see the total amount of disk blocks taken by the directory, ``` ls -a ``` allows us to see the names of the files in our working directory, ``` ls <diretory> ``` allows us to see the names of files and directories specific to someone's acount, ``` cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/ ``` allows us to copy the hello.txt file, and ``` cat /home/linux/ieng6/cs15lsp23/public/hello.txt ``` prints out the contents of the hello.txt file.
 
 This is how you log into a course specific account on ieng6 and produce some results with command inputs in the terminal.
 Good luck!
