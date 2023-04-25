@@ -33,8 +33,12 @@ public void testReverseInPlace() {
 ```
 
 This is the symptom of running the failure-inducing JUnit test.
+
 ![Image](Bug.png)
+
+
 This is the symptom of running the non failure-indcuing JUnit test.
+
 ![Image](nobug.png)
 
 Before changing the code, here is the bug-inducing code that caused the failure in one of the JUnit tests I used.
