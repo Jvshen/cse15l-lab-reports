@@ -1,4 +1,4 @@
-# Lab Report 2
+# Lab Report 3
 
 For the command line ``` find ```, one interesting command-line option is the ``` -name ``` option. This command-line option for the ``` find ``` command line  allows you to search for all the files with a certain name. For example, ``` find ./technical -name biomed ``` will provide the output, ``` ./technical/biomed ```. What this command does is it provides all the files in the ``` ./technical ``` directory with ``` biomed ``` in it. Another example is ``` find ./technical -name government ``` which will provide the output ``` ./technical/government ```. What this command does is it provides all te files in the ``` ./techical ``` directory with ``` government ``` in it.
 
