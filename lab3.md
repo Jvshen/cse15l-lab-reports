@@ -15,6 +15,7 @@ Another example is ``` find ./technical -name government ``` which will provide 
 
 What this command does is it provides all te files in the ``` ./techical ``` directory with ``` government ``` in it. I found the ``` -name ``` command-line option on [man7](https://man7.org/linux/man-pages/man1/find.1.html).
 
+
 ## ```find``` command ```-type```
 For the command line ``` find ```, another interesting command-line option is the ``` -type ``` option. This command-line option for the ``` find ``` command line allows you to search for all the files by a certain type. 
 ### Example 3
@@ -53,6 +54,7 @@ Another example is ``` find ./technical -type f ``` which will provide the outpu
 ```
 
 There is a lot more lines of code to this example output that I can't fit on this page but what this command does is it provides all the files in the ``` ./technical ``` directory with type ``` f ``` or in other words with a file type. I found the ``` -type ``` command-line option on [man7](https://man7.org/linux/man-pages/man1/find.1.html).
+
 
 ## ```find``` command ```-mtime```
 For the command line ``` find ```, another interesting command-line option is the ``` -mtime ``` option. This command-line option for the ``` find ``` command line allows you to search for all the files by how long ago they were modified. 
@@ -94,6 +96,7 @@ Another example is ``` find ./technical -mtime -3 ``` will provide the output,
 ```
 
 There is a lot more lines of code to this example output that I can't fit on this page but what this command does is it provides all the files in the ``` ./technical ``` directory with files that were modified within the last 3 days. I found the ``` -mtime ``` command-line option on [man7](https://man7.org/linux/man-pages/man1/find.1.html). 
+
 
 ## ```find``` command ```-user```
 Lastly, for the command line ``` find ```, another interesting command-line option is the ``` -user ``` option. This command-line option for the ``` find ``` command line allows you to search for a files that are owned by a specific user. 
