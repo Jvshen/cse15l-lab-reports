@@ -2,9 +2,13 @@
 
 For the command line ``` find ```, one interesting command-line option is the ``` -name ``` option. This command-line option for the ``` find ``` command line  allows you to search for all the files with a certain name. 
 ### Example 1
-For example, ``` find ./technical -name biomed ``` will provide the output, ``` ./technical/biomed ```. What this command does is it provides all the files in the ``` ./technical ``` directory with ``` biomed ``` in it. 
+For example, ``` find ./technical -name biomed ``` will provide the output, 
+``` ./technical/biomed ``` 
+What this command does is it provides all the files in the ``` ./technical ``` directory with ``` biomed ``` in it. 
 ### Example 2
-Another example is ``` find ./technical -name government ``` which will provide the output ``` ./technical/government ```. What this command does is it provides all te files in the ``` ./techical ``` directory with ``` government ``` in it. I found the ``` -name ``` command-line option on [man7](https://man7.org/linux/man-pages/man1/find.1.html).
+Another example is ``` find ./technical -name government ``` which will provide the output 
+``` ./technical/government ``` 
+What this command does is it provides all te files in the ``` ./techical ``` directory with ``` government ``` in it. I found the ``` -name ``` command-line option on [man7](https://man7.org/linux/man-pages/man1/find.1.html).
 
 For the command line ``` find ```, another interesting command-line option is the ``` -type ``` option. This command-line option for the ``` find ``` command line allows you to search for all the files by a certain type. 
 ### Example 3
@@ -94,4 +98,6 @@ For example, ``` find ./technical -user justinshen ``` will provide the output,
 ```
 There is a lot more lines of code to this example output that I can't fit on this page but what this command does is it provides all the files in the ``` ./technical ``` directory with files that are owned by justinshen. 
 ### Example 8
-Another example is ``` find ./technical -user andrewsou ``` will provide the output, ``` find: -user: andrewsou: no such user ```. What this command does is it provides all the files in the ``` ./technical ``` directory with files that are owned by andrewsou, which in this case there are no files that are owned by andrewsou in the ``` ./technical ``` directory. I found the ``` -user ``` command-line option on [man7](https://man7.org/linux/man-pages/man1/find.1.html).
+Another example is ``` find ./technical -user andrewsou ``` will provide the output, 
+``` find: -user: andrewsou: no such user ``` 
+What this command does is it provides all the files in the ``` ./technical ``` directory with files that are owned by andrewsou, which in this case there are no files that are owned by andrewsou in the ``` ./technical ``` directory. I found the ``` -user ``` command-line option on [man7](https://man7.org/linux/man-pages/man1/find.1.html).
