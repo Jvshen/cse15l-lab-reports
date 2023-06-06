@@ -37,5 +37,6 @@ Student's response:
     - To ```javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java```
     - and ```java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests```
   - Then I changed the While loop incrementation and indexes ```List.Examples.java```:
-    - I changed the first while loop: ``````
+    - I changed the first while loop: ```while(index2 < list1.size()) {``` to ```while(index1 < list1.size()) {```, with ```index2 += 1;``` changing to ```index1 += 1;```
+    - I then changed the second while loop: ```while(index1 < list2.size()) {``` to ```while(index2 < list2.size()) {``` with ```index1 += 1;``` changing to ```index2 += 1;```
 
