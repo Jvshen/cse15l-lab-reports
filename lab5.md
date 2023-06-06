@@ -19,7 +19,8 @@ TA's response:
 Student's response:
 
 ![Image](StudentResponse2-1.jpg)
-![Image](StudentResponse2-2.jpg)
+![Image](StudentResponse2-3.jpg)
+![Image](StudentResponse2-4.jpg)
 
 TA's response:
 
