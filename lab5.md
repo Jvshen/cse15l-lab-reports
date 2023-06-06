@@ -57,7 +57,6 @@ while(index2 < list2.size()) {
       index2 += 1;
 }
 return result;
-}
 ```
 At the end, the code was able to successfully run without any failures or errors:
 
