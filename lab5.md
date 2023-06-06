@@ -4,7 +4,9 @@
 
 Student's question:
 
-![Image](StudentResponse1.jpg)
+![Image](StudentResponse1-1.jpg)
+![Image](StudentResponse1-2.jpg)
+![Image](StudentResponse1-3.jpg)
 
 TA's response:
 
@@ -12,7 +14,8 @@ TA's response:
 
 Student's response:
 
-![Image](StudentResponse2.jpg)
+![Image](StudentResponse2-1.jpg)
+![Image](StudentResponse2-2.jpg)
 
 TA's response:
 
