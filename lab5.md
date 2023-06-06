@@ -8,7 +8,9 @@ Student's question:
 
 ![Image](StudentResponse1-3.jpg)
 
-![Image](StudentResponse1-2.jpg)
+![Image](StudentResponse1-4.jpg)
+
+![Image](StudentResponse1-5.jpg)
 
 TA's response:
 
