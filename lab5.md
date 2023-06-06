@@ -40,16 +40,18 @@ Student's response:
     - I changed the first while loop: ```while(index2 < list1.size()) {``` to ```while(index1 < list1.size()) {```, with ```index2 += 1;``` changing to ```index1 += 1;```
     - I then changed the second while loop: ```while(index1 < list2.size()) {``` to ```while(index2 < list2.size()) {``` with ```index1 += 1;``` changing to ```index2 += 1;```
     - Both while loops appear as so now:
-    - ```while(index1 < list1.size()) {
-            result.add(list1.get(index1));
-            index1 += 1;
-         }
-         while(index2 < list2.size()) {
-            result.add(list2.get(index2));
-            index2 += 1;
-         }
-         return result;
-         }```
-         
+```
+while(index1 < list1.size()) {
+      result.add(list1.get(index1));
+      index1 += 1;
+}
+while(index2 < list2.size()) {
+      result.add(list2.get(index2));
+      // change index1 below to index2 to fix test
+      index2 += 1;
+}
+return result;
+}
+```
   
 
