@@ -5,8 +5,10 @@
 Student's question:
 
 ![Image](StudentResponse1-1.jpg)
-![Image](StudentResponse1-2.jpg)
+
 ![Image](StudentResponse1-3.jpg)
+
+![Image](StudentResponse1-2.jpg)
 
 TA's response:
 
