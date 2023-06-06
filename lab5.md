@@ -53,5 +53,5 @@ while(index2 < list2.size()) {
 return result;
 }
 ```
-  
-
+The end result was:
+![Image](Success.jpg)
