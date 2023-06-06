@@ -7,15 +7,19 @@ Student's question:
 ![Image](StudentResponse1.jpg)
 
 TA's response:
+
 ![Image](TAResponse1.jpg)
 
 Student's response:
+
 ![Image](StudentResponse2.jpg)
 
 TA's response:
+
 ![Image](TAResponse2.jpg)
 
 Student's response:
+
 ![Image](StudentResponse3.jpg)
 
 ### Information about setup
