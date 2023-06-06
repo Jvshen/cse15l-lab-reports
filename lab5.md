@@ -33,7 +33,8 @@ Student's response:
 ### Information about setup
 - The file and directory structure needed for this setup was taken from week 7 lab. This included the JUnit files, ```ListExamples.java```, ```ListExamplesTests.java```, and ```test.sh```.
 - The contents of each file before fixing bug are as follows:
-  - ![Image](TestActual.jpg) 
+  - ![Image](TestActual-1.jpg)
+  - ![Image](TestActual-2.jpg)
   - ![Image](TestExamples.jpg) 
   - ![Image](testsh.jpg)
 - The full command line I ran to trigger the bug: 
