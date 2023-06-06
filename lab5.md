@@ -1,7 +1,9 @@
 # Lab Report 3
 ## Part 1
 ### Edstem Posts
+
 Student's question:
+
 ![Image](StudentResponse1.jpg)
 
 TA's response:
