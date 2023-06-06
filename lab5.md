@@ -1,4 +1,4 @@
-# Lab Report 3
+# Lab Report 5
 ## Part 1
 ### Edstem Posts
 
@@ -59,4 +59,4 @@ At the end, the code was able to successfully run without any failures or errors
 ![Image](Success.jpg)
 
 ## Part 2
-In the second half of the quarter, something I learned from my lab experience in the second half of this quarter was Vim. I learned that with Vim, you could edit a file through the terminal and change specific things about that file through the terminal. Using vim allows changing files to be a lot more convenient since you can edit the file straight through the terminal, not having to go directly in the file and changing it.
+Something I learned from my lab experience in the second half of this quarter was Vim. I learned that with Vim, you could edit a file through the terminal and change specific things about that file through the terminal. Using vim allows changing files to be a lot more convenient since you can edit the file straight through the terminal, not having to go directly in the file and changing it. Something that I also learned was the use of bash scripts. I learned that you can use bash scripts to carry out mutiple commands at once with only one command line. I also learned that CSE 15L teaches a lot of useful coding techniques!
