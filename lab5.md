@@ -54,5 +54,9 @@ while(index2 < list2.size()) {
 return result;
 }
 ```
-The end result was:
+At the end, the code was able to successfully run without any failures or errors:
+
 ![Image](Success.jpg)
+
+## Part 2
+In the second half of the quarter, something I learned from my lab experience in the second half of this quarter was Vim. I learned that with Vim, you could edit a file through the terminal and change specific things about that file through the terminal. Using vim allows changing files to be a lot more convenient since you can edit the file straight through the terminal, not having to go directly in the file and changing it.
