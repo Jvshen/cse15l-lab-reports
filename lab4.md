@@ -20,6 +20,7 @@ For this step, first, see if you are in the forked repository that you cloned. T
 
 ## Step 7: Edit the code file to fix the failing test
 Now, to edit the code file ```ListExamples.java```, type ```vim ListExamples.java``` into the terminal first. This is what it should look like after you have typed it.
+
 ![Image](Vim1.jpg)
 
 ![Image](Vim2.jpg)
