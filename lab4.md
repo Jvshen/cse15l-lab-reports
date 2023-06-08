@@ -31,7 +31,7 @@ Now we need to fix the bug within the code. To do this, type ```/1<Space><Enter>
 ## Step 8: Run the tests, demonstrating that they now succeed
 We need to see if the tests succeed now. To run the tests again, we can simply press the keys ```<up><up><Enter>``` because we previously already typed in the command to run our tests which was ```bash test.sh```. You could use this shortcut or just type in the command ```bash test.sh``` again into the terminal. Now we should see the tests succeed.
 
-![Image](Lab4Success.jpg)
+![Image](Lab4Successs.jpg)
 
 ## Step 9: Commit and push the resulting change to your Github account
 To commit and push the resulting change to your Github account, you need to first add the changes you've made. To do this you type ```git add ListExamples.java``` into the terminal. Then to commit, you would type ```git commit -m "Revised"``` into the terminal. The last thing we need to do is push it into your Github. To do this, you type ```git push``` into the terminal. What ```git add``` does is it adds the changes you've made in Git. What ```git commit -m``` does is it creates a new commit and the ```"Revised"``` part gives us a commit message that says "Revised" in Git. What ```git push``` does is it uploads all the local commits you have made in Git to Github. Once this is done, it should look like the following:
