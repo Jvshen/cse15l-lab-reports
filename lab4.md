@@ -14,7 +14,7 @@ After you have copied this URL, go back into Visual Studio Code and type ```git 
 ![Image](Clone1.jpg)
 
 ## Step 6: Run the tests, demonstrating that they fail
-For this step, first, see if you are in the forked repository that you cloned. Type ```ls``` into the terminal. If you see that your are not already in your forked repository, type ```cd lab7``` into the terminal. After you have gone into the forked repository you have cloned, type ```bash test.sh``` into the terminal to run the tests. This will show that the tests have failed meaning that there are bugs within the code you have to change. 
+For this step, first, see if you are in the forked repository that you cloned. Type ```ls``` into the terminal. If you see that you are not already in your forked repository, type ```cd lab7``` into the terminal. Now, type ```bash test.sh``` into the terminal to run the tests. This will show that the tests have failed meaning that there are bugs within the code you have to change. 
 
 ![Image](Failure.jpg)
 
