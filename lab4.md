@@ -7,7 +7,7 @@ The first step you want to do is to open a new window in Visual Studio Code. The
 ## Step 5: Clone your fork of the repository from your Github account
 Now we need to clone your fork of the repository from your Github account. To do this, first, open up a web browser and go to the [Github](https://github.com/) website. After you log into your Github account, find the repository that you forked. After you have done that, click on the repository that you forked and search for the button that says ```<> Code```. When you click on this button, there should be a URL provided. Copy this URL by highlighting it and then using the copying hotkey ```<Ctrl-C>```.
 
-![Image](Clone.jpg)
+![Image](Clone1C.jpg)
 
 After you have copied this URL, go back into Visual Studio Code and type ```git clone``` in your terminal and then use the pasting hotkey ```<Ctrl-V>``` to paste the URL you got from Github.
 
