@@ -33,8 +33,6 @@ We need to see if the tests succeed now. To run the tests again, we can simply p
 ![Image](Lab4Success.jpg)
 
 ## Step 9: Commit and push the resulting change to your Github account
-To commit and push the resulting change to your Github account, you need to first add the changes you've made. To do this you type ```git add ListExamples.java``` into the terminal. Then to commit, you would type ```git commit -m "Updated"``` into the terminal. What ```git add``` does is it adds the changes you've made in Git. What ```git commit -m``` does is it creates a new commit and the ```"Updated"``` part gives us a commit message that says "Updated" in Git. Once this is done, it should look like the following:
+To commit and push the resulting change to your Github account, you need to first add the changes you've made. To do this you type ```git add ListExamples.java``` into the terminal. Then to commit, you would type ```git commit -m "Updated"``` into the terminal. The last thing we need to do is push it into your Github. To do this, you type ```git push``` into the terminal. What ```git add``` does is it adds the changes you've made in Git. What ```git commit -m``` does is it creates a new commit and the ```"Updated"``` part gives us a commit message that says "Updated" in Git. What ```git push``` does is it uploads all the local commits you have made to Github. Once this is done, it should look like the following:
 
 ![Image](CommitAndPush.jpg)
-
-The last thing we need to do is push it into your Github. To do this, you type ```git push``` into the terminal. What this does is it uploads all the local commits you have made to Github.
