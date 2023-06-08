@@ -20,8 +20,8 @@ For this step, first, see if you are in the forked repository that you cloned. T
 
 ## Step 7: Edit the code file to fix the failing test
 Now, to edit the code file ```ListExamples.java```, type ```vim ListExamples.java``` into the terminal first. This is what it should look like after you have typed it.
-
 ![Image](Vim1.jpg)
+
 ![Image](Vim2.jpg)
 
 Now we need to fix the bug within the code. To do this, type ```/1<Space><Enter><Shift-n>r2``` and then exit your code while saving it by typing in ```:wq<Enter>```. Now your code should be fixed. What we just did was found the index that was incremented wrong and changed the incrementation. In the ```/1<Space><Enter><Shift-n>r2``` command line we typed, the ```/``` command essentially allows us to search for certain key words, so after we type ```1<Space>```, what this does is it looks for every word in the file that has a 1 with a space coming after it. The ```<Enter>``` that comes after stops the search. The ```<Shift-n>``` looks for the key word that we had looked up from the bottom up, and then the ```r2``` will change the current cursor position to the number 2. Then the ```:wq<Enter>``` exits out of vim while saving the code. This should give us a change in the code that should look like the following where ```index1``` changes to ```index2```:
